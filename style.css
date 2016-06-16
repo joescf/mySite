@@ -70,8 +70,13 @@ body {
   position: absolute;
   top: 500px;
 }
-
-
+#picOfMe {
+  -webkit-transform: rotate(270deg);
+  border-radius: 30%
+}
+#pic {
+  margin-left: 620px;
+}
 
 
 
