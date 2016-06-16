@@ -1,0 +1,46 @@
+header {
+  position: fixed;
+}
+body {
+  background-color: lightblue;
+}
+.heading {
+  text-align: center;
+}
+.forPic {
+  margin: 0 auto;
+  height: 200px;
+  width: 200px;
+  background-color: black;
+  border-radius: 50%;
+}
+.subHead {
+  text-align: center;
+  position: relative;
+  top: -20px;
+}
+.abouts {
+  font-weight: 800;
+  font-size: 2em;
+  width: 100%;
+  display: inline;
+  list-style-type: none;
+}
+#topOfPage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: yellow;
+}
+#divAbouts {
+  position: absolute;
+  left: 0;
+  margin-top:306px;
+  width: 100%;
+  background-color: lightgreen;
+}
+.abouts a {
+  color: red;
+}
+
