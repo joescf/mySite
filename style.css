@@ -101,7 +101,11 @@ li a:hover {
   position: relative;
   top: -190px;
 }
-/*added note*/
+
+.gAConnectIn {
+  height: 100%;
+  width: 100%;
+}
 /*.third {
   background-image: url(images/CasinoGameFirstProject.png);
   max-width:100%;
