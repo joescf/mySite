@@ -1,0 +1,102 @@
+body {
+  background-image: url("pictures/background_for_site.jpg");
+}
+.profilePic {
+  border-radius: 25%;
+  height: 200px;
+  width: 200px;
+}
+.name {
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+    margin-top: -200px;
+    font-size: 95px;
+    font-family: 'Baloo Bhai', cursive;
+}
+.initials {
+  font-size: 115px;
+}
+.contactInfo {
+  position: absolute;
+  margin-top: -214px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+  margin-left: 237px;
+  font-size: 20px;
+  font-weight: 900;
+}
+.picAndContact {
+  background-color: rgba(255, 255, 255, .7);
+  width: 406px;
+}
+a {
+  text-decoration: none;
+}
+.underline {
+  text-decoration: underline;
+}
+.bio {
+  width: 60%;
+  margin: 0 auto;
+  height: 890px;
+  background-color: rgba(0, 0, 0, .4);
+}
+.myEmailAddress {
+  position: relative;
+  margin-top: -20px;
+}
+.bioText {
+  color: rgb(255, 144, 25);
+  font-family: 'Francois One', sans-serif;
+  font-size: 30px;
+}
+.appImages {
+  height: 195px;
+  width: 195px;
+  border-radius: 40px;
+}
+.firstApp {
+  position: absolute;
+  top: 676px;
+  margin-left: 3%;
+}
+.secondApp {
+  position: absolute;
+  top: 676px;
+  margin-left: 23%;
+}
+.thirdApp {
+  position: absolute;
+  top: 676px;
+  margin-left: 44%;
+}
+.fourthApp {
+  position: absolute;
+  top: 887px;
+  margin-left: 13%;
+}
+.fifthApp {
+  position: absolute;
+  top: 887px;
+  margin-left: 33%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

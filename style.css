@@ -124,6 +124,10 @@ li a:hover {
   height: 100%;
   width: 100%;
 }
+.storesApp {
+  height: 100%;
+  width: 100%;
+}
 /*.third {
   background-image: url(images/CasinoGameFirstProject.png);
   max-width:100%;
